@@ -11,4 +11,4 @@ bot = commands.Bot(
 async def confess(ctx):
     await ctx.response.send_message("Confessing")
 
-bot.run("MTA0NDc0NDMwNTkxNjUyNjY5Nw.GJ0fci.g1WIdx2nTwML59iDEe-RElMDnxHm0kB1_J7Wlg")
+bot.run("")
